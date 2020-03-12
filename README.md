@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u2jqknnks1p91s1k?svg=true)](https://ci.appveyor.com/project/raptor-vrn/ajs-hometask-9-math)
